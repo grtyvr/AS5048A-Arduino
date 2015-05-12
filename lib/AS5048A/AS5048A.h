@@ -2,6 +2,7 @@
 #define as5048_h
 #define LIBRARY_VERSION 1.0.0
 
+#include <Arduino.h>
 
 #define AS5048A_CLEAR_ERROR_FLAG 0x0001
 #define AS5048A_PROGRAMMING_CONTROL 0x0003
