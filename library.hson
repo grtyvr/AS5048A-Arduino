@@ -1,0 +1,16 @@
+{
+  "name": "AS5048A-Arduino",
+  "keywords": "AS5048A, magnetic, encoder",
+  "description": "A simple SPI library to interface with Austria Microsystem's AS5048A angle sensor with an Arduino.",
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/ZoetropeLabs/AS5048A-Arduino"
+  },
+  "frameworks": "arduino",
+  "platforms":
+  [
+    "atmelavr",
+    "esp32"
+  ]
+}
